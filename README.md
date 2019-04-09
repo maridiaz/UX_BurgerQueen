@@ -34,7 +34,7 @@ Los clientes pueden escoger entre hamburguesas de res, de pollo, o vegetariana. 
 Nuestros clientes son bastante indecisos, por lo que es muy común que cambien el pedido varias veces antes de finalizarlo.
 
 
-Requerimientos
+### Requerimientos
 
 Entender cómo se realizan los pedidos en un restaurante similar a BQ y cuáles son las necesidades del personal de cocina y del personal de atención al público (meser@s y cajer@s).
 Ideal si dentro de la investigación toman fotos de las formas en que se toman pedidos actualmente.
