@@ -11,6 +11,7 @@ Como punto de partida, nos comparten el siguiente correo recibido del cliente:
 > Tenemos 2 menús: uno para el desayuno, que es bien sencillo:
 
 > **Desayuno**
+
 > |Item|Precio|
 > |:---|:---:|
 > |Café Americano|$20|
@@ -22,6 +23,7 @@ Como punto de partida, nos comparten el siguiente correo recibido del cliente:
 Y un menú para el resto del dia:
 
 > **Diario**
+
 > |Hamburguesas|Precio|Acompañamientos|+$15|Bebidas|Precio|
 > |:---|:---:|:---|:---:|:---|:---:|
 > |Sencilla|$40|Papas a la Francesa||Refresco|$15|
