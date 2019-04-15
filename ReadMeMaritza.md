@@ -43,22 +43,43 @@ Diagrama de flujo de orden:
 
 ##Prototipo de alta fidelidad (User Testing)
 Imágenes editadas en Figma para crear la navegación en Marvel:
+
+Pantalla de descarga de la web app.
+![GitHub Propuesta](Prototipo/Group.png)
+
 Pantalla de inicio.
+
 ![GitHub Propuesta](Prototipo/Inicio.png)
+
 Menú con botones grandes, con íconos y colores.
+
 ![GitHub Propuesta](Prototipo/Menú1.png)
+
 Ejemplo de ordenar desayuno.
+
 ![GitHub Propuesta](Prototipo/Menú3.png)
+
 Ejemplo de orden de desayuno.
+
 ![GitHub Propuesta](Prototipo/Menú6.png)
+
 Ejemplo de orden de hamburguesas
-![GitHub Propuesta](Prototipo/Menu15.png)
+
+![GitHub Propuesta](Prototipo/
+
+Menu15.png)
+
 Ejemplo de la información de orden.
+
 ![GitHub Propuesta](Prototipo/info3.png)
+
 Ejemplo de la información de orden, mostrando la opción de enviar a cocina.
+
 ![GitHub Propuesta](Prototipo/info5.png))
+
 Ejemplo de la información de orden por parte de un repartidor.
-![GitHub Propuesta](Prototipo/info4.png
+
+![GitHub Propuesta](Prototipo/info4.png)
 
 Link al prototipo de Marvel: https://marvelapp.com/3gj04ac/screen/55758116 
 
