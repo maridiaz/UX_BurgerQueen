@@ -60,6 +60,7 @@ Ejemplo de la información de orden, mostrando la opción de enviar a cocina.
 Ejemplo de la información de orden por parte de un repartidor.
 ![GitHub Propuesta](Prototipo/info4.png
 
+Link al prototipo de Marvel: https://marvelapp.com/3gj04ac/screen/55758116 
 
 
 
